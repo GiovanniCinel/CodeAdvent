@@ -16,13 +16,11 @@ The Historians have two lists of numbers that seem different at first glance. Yo
 
 ### Example Walkthrough
 
-Given lists: 
-3   4  
-4   3  
-2   5  
-1   3  
-3   9  
-3   3  `
+Given lists:
+```
+Left List:  3 4 2 1 3 3
+Right List: 4 3 5 3 9 3
+```
 
 Similarity score calculation:
 1. First number (3):
