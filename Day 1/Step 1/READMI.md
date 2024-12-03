@@ -51,9 +51,3 @@ Calculate the total distance between your specific left and right lists of locat
 ## Output
 
 - A single integer representing the total distance between the lists
-
-## Puzzle Objectives
-
-- Collect stars by solving puzzles
-- Unlock the second puzzle by completing the first
-- Help the Historians find the Chief Historian's potential locations
