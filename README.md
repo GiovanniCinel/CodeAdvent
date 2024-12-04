@@ -67,6 +67,7 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 1|   🟩   |   🟩   |
 | Day 2|   🟩   |   🟩   |
 | Day 3|   🟩   |   🟩   |
+| Day 4|   🟩   |   🟩   |
 
 **Legend**:
 - 🟩 Completed
