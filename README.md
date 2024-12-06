@@ -114,4 +114,4 @@ Contributions, suggestions, and improvements are welcome! Feel free to fork the 
 
 ## Disclaimer: Just for Fun! 😄
 
-While these solutions may seem simple or even a bit quirky, that's because they are! I'm solving these puzzles just for fun and to enjoy the challenge. Don't expect cutting-edge algorithms or overly complex solutions—I'm here to have a good time. 🎉
+While these solutions may seem simple or even a bit quirky, that's because they are! I'm solving these puzzles just for fun and to enjoy the challenge. Don't expect cutting-edge algorithms or overly complex solutions, I'm here to have a good time. 🎉
