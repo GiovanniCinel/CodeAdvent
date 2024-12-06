@@ -8,7 +8,7 @@ Welcome to my **Advent of Code 2024** repository! Here you'll find my solutions 
 
 Advent of Code is an annual event that provides a series of daily programming puzzles from December 1st to December 25th. These challenges are designed to test your problem-solving and coding skills.
 
-You can find the puzzles on the official Advent of Code website: [https://adventofcode.com/2024](https://adventofcode.com/2024).
+You can find the puzzles on the official Advent of Code website: [Advent of Code 2024](https://adventofcode.com/2024).
 
 ---
 
