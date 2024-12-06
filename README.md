@@ -14,7 +14,7 @@ You can find the puzzles on the official Advent of Code website: [https://advent
 
 ## Repository Structure
 
-The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each day is further divided into **steps** (e.g., `step 1`, `step 2`). Each step corresponds to a part of the daily puzzle.
+The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each day is further divided into **steps** (`step 1`, `step 2`). Each step corresponds to one of the two daily puzzle.
 
 ```plaintext
 .
@@ -29,19 +29,27 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 │   │   └── README.md
 ├── day 2/
 │   ├── step 1/
+│   │   ├── solution.py
+│   │   ├── input.txt
+│   │   └── README.md
 │   ├── step 2/
+│   │   ├── solution.py
+│   │   ├── input.txt
+│   │   └── README.md
 │   └── ...
 ├── ...
 └── README.md
 ```
 ## Contents of Each Folder:
-- **solution.ext**: Code for solving the puzzle (language may vary).
+
+- **solution.py**: My code for solving the puzzle (I started by solving with **Python** code, but it is possible that I will use other languages (e.g. **c++**).
 - **input.txt**: Input provided by the Advent of Code website.
 - **README.md**: The assignment for the puzzle.
 
 ---
 
 ## How to Use the Repository
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/GiovanniCinel/CodeAdvent.git
@@ -99,4 +107,11 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 ---
 
 ## Contributions
+
 Contributions, suggestions, and improvements are welcome! Feel free to fork the repository and submit a pull request.
+
+---
+
+## Disclaimer: Just for Fun! 😄
+
+While these solutions may seem simple or even a bit quirky, that's because they are! I'm solving these puzzles just for fun and to enjoy the challenge. Don't expect cutting-edge algorithms or overly complex solutions—I'm here to have a good time. 🎉
