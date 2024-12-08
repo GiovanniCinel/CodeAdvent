@@ -47,7 +47,7 @@ for key in map.keys():
                 if((antennaRow in range(0, len(antinodeMap))) and (antennaCol in range(0, len(antinodeMap[antennaRow])))):
                     antinodeMap[antennaRow][antennaCol] = '#'
 
-printMap(antinodeMap)
+#printMap(antinodeMap)
 
 for i in range(0, len(antinodeMap)):
         for j in range(0, len(antinodeMap[i])):
