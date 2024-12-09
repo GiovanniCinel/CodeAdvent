@@ -18,7 +18,7 @@ for i in range(0, len(diskMap)):
 
 
 i = len(diskMapRepresentation)
-for k in range(len(indices)-1, -1, -1):
+for k in range(len(indices)-1, 0, -1):
     size = i - indices[k]
     start = 0 
     j = 0
@@ -37,7 +37,7 @@ for k in range(len(indices)-1, -1, -1):
     if(j > indices[k]):
         i = indices[k] - 1
 
-        while(diskMapRepresentation[i] == '.'):
+        while(diskMapRepresentation[i] != diskMapRepresentation[indices[k-1]]):
             i -= 1
         i += 1
         continue
@@ -49,7 +49,7 @@ for k in range(len(indices)-1, -1, -1):
 
     i = indices[k] - 1
 
-    while(diskMapRepresentation[i] == '.'):
+    while(diskMapRepresentation[i] != diskMapRepresentation[indices[k-1]]):
         i -= 1
     i += 1
 
