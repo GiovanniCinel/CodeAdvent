@@ -1,4 +1,4 @@
-# Day 10: Hoof It - Topographic Trail Scoring
+# Day 10: Hoof It
 
 ## Problem Overview
 Explore a topographic map and calculate the total score of all trailheads in a hiking landscape.
