@@ -81,7 +81,7 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 7  |   🟩   |   🟩   |
 | Day 8  |   🟩   |   🟩   |
 | Day 9  |   🟩   |   🟩   |
-| Day 10 |   🟥   |   🟥   |
+| Day 10 |   🟩   |   🟩   |
 | Day 11 |   🟥   |   🟥   |
 | Day 12 |   🟥   |   🟥   |
 | Day 13 |   🟥   |   🟥   |
@@ -116,10 +116,10 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 6    | [Guard Gallivant](Day%206/Step%201/solution.py) : 4454           | [Guard Gallivant - Part Two](Day%206/Step%202/solution.py) : 1503            |
 | Day 7    | [Bridge Repair](Day%207/Step%201/solution.py) : 42283209483350   | [Bridge Repair - Part Two](Day%207/Step%202/solution.py) : 1026766857276279  |
 | Day 8    | [Resonant Collinearity](Day%208/Step%201/solution.py) : 357      | [Resonant Collinearity - Part Two](Day%208/Step%202/solution.py) : 1266      |
-| Day 9    | [Disk Fragmenter](Day%209/Step%201/solution.py) : 6291146824486  | [Challenge Name - Part Two](Day%209/Step%202/solution.py) : 6307279963620    |
+| Day 9    | [Disk Fragmenter](Day%209/Step%201/solution.py) : 6291146824486  | [Disk Fragmente - Part Two](Day%209/Step%202/solution.py) : 6307279963620    |
+| Day 10   | [Hoof It](Day%2010/Step%201/solution.py) : 782                   | [Hoof It - Part Two](Day%2010/Step%202/solution.py) : 1694                   |
 <!-- Future days commented out for now -->
 <!--
-| Day 10   | [Challenge Name](Day%2010/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2010/Step%202/solution.py) : RESULT          |
 | Day 11   | [Challenge Name](Day%2011/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2011/Step%202/solution.py) : RESULT          |
 | Day 12   | [Challenge Name](Day%2012/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2012/Step%202/solution.py) : RESULT          |
 | Day 13   | [Challenge Name](Day%2013/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2013/Step%202/solution.py) : RESULT          |
