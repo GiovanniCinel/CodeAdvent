@@ -31,8 +31,6 @@ input.close()
 stones = [int(num) for num in re.findall(r'-?\d+', line)]
 
 for j in stones:
-    total += blinking(j, BLINKING_TIMES)             
-    print(j)
-    
+    total += blinking(j, BLINKING_TIMES) 
 
 print("Now we have ", total, " stones")
