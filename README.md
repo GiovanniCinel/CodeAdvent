@@ -82,7 +82,7 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 8  |   🟩   |   🟩   |
 | Day 9  |   🟩   |   🟩   |
 | Day 10 |   🟩   |   🟩   |
-| Day 11 |   🟥   |   🟥   |
+| Day 11 |   🟩   |   🟩   |
 | Day 12 |   🟥   |   🟥   |
 | Day 13 |   🟥   |   🟥   |
 | Day 14 |   🟥   |   🟥   |
@@ -106,21 +106,21 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 ---
 ## Solution and result
 
-| Day      | Part 1                                                           | Part 2                                                                       |
-|----------|------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Day 1    | [Historian Hysteria](Day%201/Step%201/solution.py) : 2196996     | [Historian Hysteria - Part Two](Day%201/Step%202/solution.py) : 23655822     |
-| Day 2    | [Red-Nosed Reports](Day%202/Step%201/solution.py) : 224          | [Red-Nosed Reports - Part Two](Day%202/Step%202/solution.py) : 293           |
-| Day 3    | [Mull It Over](Day%203/Step%201/solution.py) : 159833790         | [Mull It Over - Part Two](Day%203/Step%202/solution.py) : 89349241           |
-| Day 4    | [Ceres Search](Day%204/Step%201/solution.py) : 2401              | [Ceres Search - Part Two](Day%204/Step%202/solution.py) : 1822               |
-| Day 5    | [Print Queue](Day%205/Step%201/solution.py) : 5275               | [Print Queue - Part Two](Day%205/Step%202/solution.py) : 6191                |
-| Day 6    | [Guard Gallivant](Day%206/Step%201/solution.py) : 4454           | [Guard Gallivant - Part Two](Day%206/Step%202/solution.py) : 1503            |
-| Day 7    | [Bridge Repair](Day%207/Step%201/solution.py) : 42283209483350   | [Bridge Repair - Part Two](Day%207/Step%202/solution.py) : 1026766857276279  |
-| Day 8    | [Resonant Collinearity](Day%208/Step%201/solution.py) : 357      | [Resonant Collinearity - Part Two](Day%208/Step%202/solution.py) : 1266      |
-| Day 9    | [Disk Fragmenter](Day%209/Step%201/solution.py) : 6291146824486  | [Disk Fragmente - Part Two](Day%209/Step%202/solution.py) : 6307279963620    |
-| Day 10   | [Hoof It](Day%2010/Step%201/solution.py) : 782                   | [Hoof It - Part Two](Day%2010/Step%202/solution.py) : 1694                   |
+| Day      | Part 1                                                           | Part 2                                                                         |
+|----------|------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Day 1    | [Historian Hysteria](Day%201/Step%201/solution.py) : 2196996     | [Historian Hysteria - Part Two](Day%201/Step%202/solution.py) : 23655822        |
+| Day 2    | [Red-Nosed Reports](Day%202/Step%201/solution.py) : 224          | [Red-Nosed Reports - Part Two](Day%202/Step%202/solution.py) : 293              |
+| Day 3    | [Mull It Over](Day%203/Step%201/solution.py) : 159833790         | [Mull It Over - Part Two](Day%203/Step%202/solution.py) : 89349241              |
+| Day 4    | [Ceres Search](Day%204/Step%201/solution.py) : 2401              | [Ceres Search - Part Two](Day%204/Step%202/solution.py) : 1822                  |
+| Day 5    | [Print Queue](Day%205/Step%201/solution.py) : 5275               | [Print Queue - Part Two](Day%205/Step%202/solution.py) : 6191                   |
+| Day 6    | [Guard Gallivant](Day%206/Step%201/solution.py) : 4454           | [Guard Gallivant - Part Two](Day%206/Step%202/solution.py) : 1503               |
+| Day 7    | [Bridge Repair](Day%207/Step%201/solution.py) : 42283209483350   | [Bridge Repair - Part Two](Day%207/Step%202/solution.py) : 1026766857276279     |
+| Day 8    | [Resonant Collinearity](Day%208/Step%201/solution.py) : 357      | [Resonant Collinearity - Part Two](Day%208/Step%202/solution.py) : 1266         |
+| Day 9    | [Disk Fragmenter](Day%209/Step%201/solution.py) : 6291146824486  | [Disk Fragmente - Part Two](Day%209/Step%202/solution.py) : 6307279963620       |
+| Day 10   | [Hoof It](Day%2010/Step%201/solution.py) : 782                   | [Hoof It - Part Two](Day%2010/Step%202/solution.py) : 1694                      |
+| Day 11   | [Plutonian Pebbles](Day%2011/Step%201/solution.py) : 224529      | [Plutonian Pebbles - Part Two](Day%2011/Step%202/solution.py) : 266820198587914 |
 <!-- Future days commented out for now -->
 <!--
-| Day 11   | [Challenge Name](Day%2011/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2011/Step%202/solution.py) : RESULT          |
 | Day 12   | [Challenge Name](Day%2012/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2012/Step%202/solution.py) : RESULT          |
 | Day 13   | [Challenge Name](Day%2013/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2013/Step%202/solution.py) : RESULT          |
 | Day 14   | [Challenge Name](Day%2014/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2014/Step%202/solution.py) : RESULT          |
