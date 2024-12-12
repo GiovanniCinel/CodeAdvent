@@ -1,4 +1,4 @@
-# Garden Groups - Part Two
+# Day 12: Garden Groups - Part Two
 
 ## Problem Overview
 Calculate the total fencing cost using a new method that considers both region area and number of sides.
