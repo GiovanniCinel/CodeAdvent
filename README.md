@@ -83,7 +83,7 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 9  |   🟩   |   🟩   |
 | Day 10 |   🟩   |   🟩   |
 | Day 11 |   🟩   |   🟩   |
-| Day 12 |   🟥   |   🟥   |
+| Day 12 |   🟩   |   🟨   |
 | Day 13 |   🟥   |   🟥   |
 | Day 14 |   🟥   |   🟥   |
 | Day 15 |   🟥   |   🟥   |
@@ -119,9 +119,9 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 9    | [Disk Fragmenter](Day%209/Step%201/solution.py) : 6291146824486  | [Disk Fragmente - Part Two](Day%209/Step%202/solution.py) : 6307279963620       |
 | Day 10   | [Hoof It](Day%2010/Step%201/solution.py) : 782                   | [Hoof It - Part Two](Day%2010/Step%202/solution.py) : 1694                      |
 | Day 11   | [Plutonian Pebbles](Day%2011/Step%201/solution.py) : 224529      | [Plutonian Pebbles - Part Two](Day%2011/Step%202/solution.py) : 266820198587914 |
+| Day 12   | [Garden Groups](Day%2012/Step%201/solution.py) : 1546338         | [Garden Groups - Part Two](Day%2012/Step%202/solution.py) : WORK IN PROGRESS    |
 <!-- Future days commented out for now -->
 <!--
-| Day 12   | [Challenge Name](Day%2012/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2012/Step%202/solution.py) : RESULT          |
 | Day 13   | [Challenge Name](Day%2013/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2013/Step%202/solution.py) : RESULT          |
 | Day 14   | [Challenge Name](Day%2014/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2014/Step%202/solution.py) : RESULT          |
 | Day 15   | [Challenge Name](Day%2015/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2015/Step%202/solution.py) : RESULT          |
