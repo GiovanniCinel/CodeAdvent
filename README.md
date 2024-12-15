@@ -84,8 +84,8 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 10 |   🟩   |   🟩   |
 | Day 11 |   🟩   |   🟩   |
 | Day 12 |   🟩   |   🟩   |
-| Day 13 |   🟥   |   🟥   |
-| Day 14 |   🟥   |   🟥   |
+| Day 13 |   🟩   |   🟩   |
+| Day 14 |   🟨   |   🟨   |
 | Day 15 |   🟥   |   🟥   |
 | Day 16 |   🟥   |   🟥   |
 | Day 17 |   🟥   |   🟥   |
@@ -120,10 +120,10 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 10   | [Hoof It](Day%2010/Step%201/solution.py) : 782                   | [Hoof It - Part Two](Day%2010/Step%202/solution.py) : 1694                      |
 | Day 11   | [Plutonian Pebbles](Day%2011/Step%201/solution.py) : 224529      | [Plutonian Pebbles - Part Two](Day%2011/Step%202/solution.py) : 266820198587914 |
 | Day 12   | [Garden Groups](Day%2012/Step%201/solution.py) : 1546338         | [Garden Groups - Part Two](Day%2012/Step%202/solution.py) : 978590              |
+| Day 13   | [Claw Contraption](Day%2013/Step%201/solution.py) : 29436        | [Claw Contraption - Part Two](Day%2013/Step%202/solution.py) : 103729094227877  |
+| Day 14   | [Restroom Redoubt](Day%2014/Step%201/solution.py) : RESULT       | [Restroom Redoubt - Part Two](Day%2014/Step%202/solution.py) : RESULT           |
 <!-- Future days commented out for now -->
 <!--
-| Day 13   | [Challenge Name](Day%2013/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2013/Step%202/solution.py) : RESULT          |
-| Day 14   | [Challenge Name](Day%2014/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2014/Step%202/solution.py) : RESULT          |
 | Day 15   | [Challenge Name](Day%2015/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2015/Step%202/solution.py) : RESULT          |
 | Day 16   | [Challenge Name](Day%2016/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2016/Step%202/solution.py) : RESULT          |
 | Day 17   | [Challenge Name](Day%2017/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2017/Step%202/solution.py) : RESULT          |
