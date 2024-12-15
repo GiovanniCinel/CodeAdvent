@@ -10,12 +10,6 @@ Advent of Code is an annual event that provides a series of daily programming pu
 
 You can find the puzzles on the official Advent of Code website: [Advent of Code 2024](https://adventofcode.com/2024).
 
-<div align="center">
-    <a href="https://adventofcode.com/2024">
-        <img src="https://via.placeholder.com/800x200.svg?text=Advent+of+Code+2024+Calendar" alt="Advent of Code 2024 Calendar" width="100%">
-    </a>
-</div>
-
 ---
 
 ## Repository Structure
