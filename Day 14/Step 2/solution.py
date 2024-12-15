@@ -28,7 +28,7 @@ input.close()
 npPositions = np.array(positions)
 npVelocities = np.array(velocities)
 
-while(time):
+while(time < 10**4):
     space = np.zeros((TALL, WIDE))
     for j in range(0, len(npPositions)):
         npPositions[j] += npVelocities[j]
@@ -69,11 +69,8 @@ while(time):
     
     if sf < inf:
         inf = sf
-        bestIteration = time
+        valueFind = time
 
     time += 1
 
-    if(time > 10**4):
-        break
-
-print("The safety factor is : ", bestIteration)
+print("The safety factor is : ", valueFind)
