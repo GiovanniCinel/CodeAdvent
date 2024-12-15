@@ -25,6 +25,7 @@ while (line != ""):
     line = input.readline()
     line = input.readline()
 
+input.close()
 
 for i in range(0, len(prizes)):
     aX = a[i][0]
