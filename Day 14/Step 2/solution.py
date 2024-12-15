@@ -1,10 +1,5 @@
 import re
 import numpy as np
-from itertools import count
-
-def treeConfiguration(space):
-    
-    return False
 
 WIDE = 101
 TALL = 103
