@@ -87,7 +87,7 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 13 |   🟩   |   🟩   |
 | Day 14 |   🟩   |   🟩   |
 | Day 15 |   🟩   |   🟩   |
-| Day 16 |   🟥   |   🟥   |
+| Day 16 |   🟨   |   🟥   |
 | Day 17 |   🟥   |   🟥   |
 | Day 18 |   🟥   |   🟥   |
 | Day 19 |   🟥   |   🟥   |
@@ -125,16 +125,16 @@ The repository is organized by **days** (e.g., `day 1`, `day 2`, ...) and each d
 | Day 15   | [Warehouse Woes](Day%2015/Step%201/solution.py) : 1476771        | [Warehouse Woes - Part Two](Day%2015/Step%202/solution.py) : 1468005            |
 <!-- Future days commented out for now -->
 <!--
-| Day 16   | [Reindeer Maze](Day%2016/Step%201/solution.py) : RESULT         | [Reindeer Maze - Part Two](Day%2016/Step%202/solution.py) : RESULT          |
-| Day 17   | [Challenge Name](Day%2017/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2017/Step%202/solution.py) : RESULT          |
-| Day 18   | [Challenge Name](Day%2018/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2018/Step%202/solution.py) : RESULT          |
-| Day 19   | [Challenge Name](Day%2019/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2019/Step%202/solution.py) : RESULT          |
-| Day 20   | [Challenge Name](Day%2020/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2020/Step%202/solution.py) : RESULT          |
-| Day 21   | [Challenge Name](Day%2021/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2021/Step%202/solution.py) : RESULT          |
-| Day 22   | [Challenge Name](Day%2022/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2022/Step%202/solution.py) : RESULT          |
-| Day 23   | [Challenge Name](Day%2023/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2023/Step%202/solution.py) : RESULT          |
-| Day 24   | [Challenge Name](Day%2024/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2024/Step%202/solution.py) : RESULT          |
-| Day 25   | [Challenge Name](Day%2025/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2025/Step%202/solution.py) : RESULT          |
+| Day 16   | [Reindeer Maze](Day%2016/Step%201/solution.py) : RESULT          | [Chronospatial Computer - Part Two](Day%2016/Step%202/solution.py) : RESULT     |
+| Day 17   | [Chronospatial Computer](Day%2017/Step%201/solution.py) : RESULT | [Challenge Name - Part Two](Day%2017/Step%202/solution.py) : RESULT             |
+| Day 18   | [Challenge Name](Day%2018/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2018/Step%202/solution.py) : RESULT             |
+| Day 19   | [Challenge Name](Day%2019/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2019/Step%202/solution.py) : RESULT             |
+| Day 20   | [Challenge Name](Day%2020/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2020/Step%202/solution.py) : RESULT             | 
+| Day 21   | [Challenge Name](Day%2021/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2021/Step%202/solution.py) : RESULT             |
+| Day 22   | [Challenge Name](Day%2022/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2022/Step%202/solution.py) : RESULT             |
+| Day 23   | [Challenge Name](Day%2023/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2023/Step%202/solution.py) : RESULT             |
+| Day 24   | [Challenge Name](Day%2024/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2024/Step%202/solution.py) : RESULT             |
+| Day 25   | [Challenge Name](Day%2025/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2025/Step%202/solution.py) : RESULT             |
 -->
 
 ---
