@@ -20,33 +20,33 @@ Each day is further divided into **steps** (`step 1`, `step 2`), which correspon
 ```plaintext
 .
 ├── 2024/
-│   ├── day 1/
-│   │   ├── step 1/
+│   ├── Day 1/
+│   │   ├── Step 1/
 │   │   │   ├── solution.py
 │   │   │   ├── input.txt
 │   │   │   └── README.md
-│   │   ├── step 2/
+│   │   ├── Step 2/
 │   │   │   ├── solution.py
 │   │   │   ├── input.txt
 │   │   │   └── README.md
-│   ├── day 2/
-│   │   ├── step 1/
+│   ├── Day 2/
+│   │   ├── Step 1/
 │   │   │   ├── solution.py
 │   │   │   ├── input.txt
 │   │   │   └── README.md
-│   │   ├── step 2/
+│   │   ├── Step 2/
 │   │   │   ├── solution.py
 │   │   │   ├── input.txt
 │   │   │   └── README.md
 │   │   └── ...
 │   └── README.md
 ├── 2025/
-│   ├── day 1/
-│   │   ├── step 1/
+│   ├── Day 1/
+│   │   ├── Step 1/
 │   │   │   ├── solution.py
 │   │   │   ├── input.txt
 │   │   │   └── README.md
-│   │   ├── step 2/
+│   │   ├── Step 2/
 │   │   │   ├── solution.py
 │   │   │   ├── input.txt
 │   │   │   └── README.md
