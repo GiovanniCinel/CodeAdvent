@@ -1,6 +1,6 @@
-# Advent of Code 2024 🎄✨
+# Advent of Code 2025 🎄✨
 
-Welcome to my **Advent of Code 2024** repository! Here you'll find my solutions to the daily puzzles released during this exciting coding event. 🚀
+Welcome to my **Advent of Code 2025** repository! Here you'll find my solutions to the daily puzzles released during this exciting coding event. 🚀
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my **Advent of Code 2024** repository! Here you'll find my solutions 
 
 Advent of Code is an annual event that provides a series of daily programming puzzles from December 1st to December 25th. These challenges are designed to test your problem-solving and coding skills.
 
-You can find the puzzles on the official Advent of Code website: [Advent of Code 2024](https://adventofcode.com/2024).
+You can find the puzzles on the official Advent of Code website: [Advent of Code 2024](https://adventofcode.com/2025).
 
 ---
 
@@ -52,22 +52,22 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 
 | Day    | Step 1 | Step 2  |
 |--------|--------|---------|
-| Day 1  |   🟩   |   🟩   |     
-| Day 2  |   🟩   |   🟩   |
-| Day 3  |   🟩   |   🟩   |
-| Day 4  |   🟩   |   🟩   |
-| Day 5  |   🟩   |   🟩   |
-| Day 6  |   🟩   |   🟩   |
-| Day 7  |   🟩   |   🟩   |
-| Day 8  |   🟩   |   🟩   |
-| Day 9  |   🟩   |   🟩   |
-| Day 10 |   🟩   |   🟩   |
-| Day 11 |   🟩   |   🟩   |
-| Day 12 |   🟩   |   🟩   |
-| Day 13 |   🟩   |   🟩   |
-| Day 14 |   🟩   |   🟩   |
-| Day 15 |   🟩   |   🟩   |
-| Day 16 |   🟨   |   🟥   |
+| Day 1  |   🟥   |   🟥   |     
+| Day 2  |   🟥   |   🟥   |
+| Day 3  |   🟥   |   🟥   |
+| Day 4  |   🟥   |   🟥   |
+| Day 5  |   🟥   |   🟥   |
+| Day 6  |   🟥   |   🟥   |
+| Day 7  |   🟥   |   🟥   |
+| Day 8  |   🟥   |   🟥   |
+| Day 9  |   🟥   |   🟥   |
+| Day 10 |   🟥   |   🟥   |
+| Day 11 |   🟥   |   🟥   |
+| Day 12 |   🟥   |   🟥   |
+| Day 13 |   🟥   |   🟥   |
+| Day 14 |   🟥   |   🟥   |
+| Day 15 |   🟥   |   🟥   |
+| Day 16 |   🟥   |   🟥   |
 | Day 17 |   🟥   |   🟥   |
 | Day 18 |   🟥   |   🟥   |
 | Day 19 |   🟥   |   🟥   |
@@ -88,6 +88,8 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 
 | Day      | Part 1                                                           | Part 2                                                                         |
 |----------|------------------------------------------------------------------|---------------------------------------------------------------------------------|
+<!-- Future days commented out for now -->
+<!--
 | Day 1    | [Historian Hysteria](Day%2001/Step%201/solution.py) : 2196996     | [Historian Hysteria - Part Two](Day%2001/Step%202/solution.py) : 23655822        |
 | Day 2    | [Red-Nosed Reports](Day%2002/Step%201/solution.py) : 224          | [Red-Nosed Reports - Part Two](Day%2002/Step%202/solution.py) : 293              |
 | Day 3    | [Mull It Over](Day%2003/Step%201/solution.py) : 159833790         | [Mull It Over - Part Two](Day%2003/Step%202/solution.py) : 89349241              |
@@ -103,8 +105,6 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 | Day 13   | [Claw Contraption](Day%2013/Step%201/solution.py) : 29436        | [Claw Contraption - Part Two](Day%2013/Step%202/solution.py) : 103729094227877  |
 | Day 14   | [Restroom Redoubt](Day%2014/Step%201/solution.py) : 232589280    | [Restroom Redoubt - Part Two](Day%2014/Step%202/solution.py) : 7569             |
 | Day 15   | [Warehouse Woes](Day%2015/Step%201/solution.py) : 1476771        | [Warehouse Woes - Part Two](Day%2015/Step%202/solution.py) : 1468005            |
-<!-- Future days commented out for now -->
-<!--
 | Day 16   | [Reindeer Maze](Day%2016/Step%201/solution.py) : RESULT          | [Chronospatial Computer - Part Two](Day%2016/Step%202/solution.py) : RESULT     |
 | Day 17   | [Chronospatial Computer](Day%2017/Step%201/solution.py) : RESULT | [Challenge Name - Part Two](Day%2017/Step%202/solution.py) : RESULT             |
 | Day 18   | [Challenge Name](Day%2018/Step%201/solution.py) : RESULT         | [Challenge Name - Part Two](Day%2018/Step%202/solution.py) : RESULT             |

@@ -14,8 +14,8 @@ You can find the puzzles on the official Advent of Code website: [Advent of Code
 
 ## Repository Structure
 
-The repository is organized by **year** (e.g., `2024`, `2025`), and within each year, by **days** (e.g., `day 1`, `day 2`, ...).  
-Each day is further divided into **steps** (`step 1`, `step 2`), which correspond to the two parts of each daily puzzle.
+The repository is organized by **year** (e.g., `2024`, `2025`), and within each year, by **days** (e.g., `Day 1`, `Day 2`, ...).  
+Each day is further divided into **steps** (`Step 1`, `Step 2`), which correspond to the two parts of each daily puzzle.
 
 ```plaintext
 .
