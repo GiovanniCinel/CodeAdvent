@@ -76,7 +76,6 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 
 | Day      | Part 1                                                           | Part 2                                                                         |
 |----------|------------------------------------------------------------------|---------------------------------------------------------------------------------|
-
 | Day 1    | [Secret Entrance](Day%2001/Step%201/solution.py) : 1064     | [Secret Entrance - Part Two](Day%2001/Step%202/solution.py) : 6122        |
 <!-- Future days commented out for now -->
 <!--
