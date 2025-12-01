@@ -6,9 +6,9 @@ Welcome to my **Advent of Code 2025** repository! Here you'll find my solutions 
 
 ## About Advent of Code
 
-Advent of Code is an annual event that provides a series of daily programming puzzles from December 1st to December 25th. These challenges are designed to test your problem-solving and coding skills.
+Advent of Code is an annual event that provides a series of daily programming puzzles from December 1st to December 12th. These challenges are designed to test your problem-solving and coding skills.
 
-You can find the puzzles on the official Advent of Code website: [Advent of Code 2024](https://adventofcode.com/2025).
+You can find the puzzles on the official Advent of Code website: [Advent of Code 2025](https://adventofcode.com/2025).
 
 ---
 
@@ -52,7 +52,7 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 
 | Day    | Step 1 | Step 2  |
 |--------|--------|---------|
-| Day 1  |   🟥   |   🟥   |     
+| Day 1  |   🟩   |   🟩   |     
 | Day 2  |   🟥   |   🟥   |
 | Day 3  |   🟥   |   🟥   |
 | Day 4  |   🟥   |   🟥   |
@@ -64,19 +64,7 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 | Day 10 |   🟥   |   🟥   |
 | Day 11 |   🟥   |   🟥   |
 | Day 12 |   🟥   |   🟥   |
-| Day 13 |   🟥   |   🟥   |
-| Day 14 |   🟥   |   🟥   |
-| Day 15 |   🟥   |   🟥   |
-| Day 16 |   🟥   |   🟥   |
-| Day 17 |   🟥   |   🟥   |
-| Day 18 |   🟥   |   🟥   |
-| Day 19 |   🟥   |   🟥   |
-| Day 20 |   🟥   |   🟥   |
-| Day 21 |   🟥   |   🟥   |
-| Day 22 |   🟥   |   🟥   |
-| Day 23 |   🟥   |   🟥   |
-| Day 24 |   🟥   |   🟥   |
-| Day 25 |   🟥   |   🟥   |
+
 
 **Legend**:
 - 🟩 Completed
@@ -88,9 +76,10 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 
 | Day      | Part 1                                                           | Part 2                                                                         |
 |----------|------------------------------------------------------------------|---------------------------------------------------------------------------------|
+
+| Day 1    | [Secret Entrance](Day%2001/Step%201/solution.py) : 1064     | [Secret Entrance - Part Two](Day%2001/Step%202/solution.py) : 6122        |
 <!-- Future days commented out for now -->
 <!--
-| Day 1    | [Historian Hysteria](Day%2001/Step%201/solution.py) : 2196996     | [Historian Hysteria - Part Two](Day%2001/Step%202/solution.py) : 23655822        |
 | Day 2    | [Red-Nosed Reports](Day%2002/Step%201/solution.py) : 224          | [Red-Nosed Reports - Part Two](Day%2002/Step%202/solution.py) : 293              |
 | Day 3    | [Mull It Over](Day%2003/Step%201/solution.py) : 159833790         | [Mull It Over - Part Two](Day%2003/Step%202/solution.py) : 89349241              |
 | Day 4    | [Ceres Search](Day%2004/Step%201/solution.py) : 2401              | [Ceres Search - Part Two](Day%2004/Step%202/solution.py) : 1822                  |
