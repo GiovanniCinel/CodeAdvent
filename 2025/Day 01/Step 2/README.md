@@ -1,4 +1,4 @@
-# Part Two: Method 0x434C49434B
+# Day 1: Secret Entrance - Part Two
 
 ## Problem Overview
 The first password was rejected. A new security document reveals a stricter protocol ("Method 0x434C49434B") involving the mechanical "clicks" of the dial.
