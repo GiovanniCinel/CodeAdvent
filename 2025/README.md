@@ -56,7 +56,7 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 | Day 2  |   🟩   |   🟩   |
 | Day 3  |   🟩   |   🟩   |
 | Day 4  |   🟩   |   🟩   |
-| Day 5  |   🟥   |   🟥   |
+| Day 5  |   🟩   |   🟩   |
 | Day 6  |   🟥   |   🟥   |
 | Day 7  |   🟥   |   🟥   |
 | Day 8  |   🟥   |   🟥   |
@@ -80,9 +80,9 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 | Day 2    | [Gift Shop](Day%2002/Step%201/solution.py) : 34826702005         | [Gift Shop - Part Two](Day%2002/Step%202/solution.py) : 43287141963             |
 | Day 3    | [Lobby](Day%2003/Step%201/solution.py) : 17207                   | [Lobby - Part Two](Day%2003/Step%202/solution.py) : 170997883706617             |                      
 | Day 4    | [Printing Department](Day%2004/Step%201/solution.py) : 1549              | [Printing Department - Part Two](Day%2004/Step%202/solution.py) : 8887                   |
+| Day 5    | [Cafeteria](Day%2005/Step%201/solution.py) : 885               | [Cafeteria - Part Two](Day%2005/Step%202/solution.py) : 348115621205535      |
 <!-- Future days commented out for now -->
-<!--  
-| Day 5    | [Print Queue](Day%2005/Step%201/solution.py) : 5275               | [Print Queue - Part Two](Day%2005/Step%202/solution.py) : 6191                   |
+<!--                     
 | Day 6    | [Guard Gallivant](Day%2006/Step%201/solution.py) : 4454           | [Guard Gallivant - Part Two](Day%2006/Step%202/solution.py) : 1503               |
 | Day 7    | [Bridge Repair](Day%2007/Step%201/solution.py) : 42283209483350   | [Bridge Repair - Part Two](Day%2007/Step%202/solution.py) : 1026766857276279     |
 | Day 8    | [Resonant Collinearity](Day%2008/Step%201/solution.py) : 357      | [Resonant Collinearity - Part Two](Day%2008/Step%202/solution.py) : 1266         |
