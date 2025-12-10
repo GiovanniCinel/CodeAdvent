@@ -60,7 +60,7 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 | Day 6  |   🟩   |   🟩   |
 | Day 7  |   🟩   |   🟩   |
 | Day 8  |   🟩   |   🟩   |
-| Day 9  |   🟥   |   🟥   |
+| Day 9  |   🟩   |   🟦   |
 | Day 10 |   🟥   |   🟥   |
 | Day 11 |   🟥   |   🟥   |
 | Day 12 |   🟥   |   🟥   |
@@ -70,6 +70,8 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 - 🟩 Completed
 - 🟨 In Progress
 - 🟥 Not Started
+
+- 🟦 Completed using AI
 
 ---
 ## Solution and result
@@ -84,9 +86,9 @@ The folder is organized by **days** (e.g., `Day 1`, `Day 2`, ...) and each day i
 | Day 6    | [Trash Compactor](Day%2006/Step%201/solution.py) : 4309240495780           | [Trash Compactor - Part Two](Day%2006/Step%202/solution.py) : 9170286552289                      |             
 | Day 7    | [Laboratories](Day%2007/Step%201/solution.py) : 1649   | [Laboratories - Part Two](Day%2007/Step%202/solution.py) : 16937871060075     |  
 | Day 8    | [Playground](Day%2008/Step%201/solution.py) : 140008      | [Playground - Part Two](Day%2008/Step%202/solution.py) : 9253260633         |
+| Day 9    | [Movie Theater](Day%2009/Step%201/solution.py) : 4755278336  | [Movie Theater - Part Two](Day%2009/Step%202/solution.py) : 1534043700       |
 <!-- Future days commented out for now -->
 <!-- 
-| Day 9    | [Disk Fragmenter](Day%2009/Step%201/solution.py) : 6291146824486  | [Disk Fragmente - Part Two](Day%2009/Step%202/solution.py) : 6307279963620       |
 | Day 10   | [Hoof It](Day%2010/Step%201/solution.py) : 782                   | [Hoof It - Part Two](Day%2010/Step%202/solution.py) : 1694                      |
 | Day 11   | [Plutonian Pebbles](Day%2011/Step%201/solution.py) : 224529      | [Plutonian Pebbles - Part Two](Day%2011/Step%202/solution.py) : 266820198587914 |
 | Day 12   | [Garden Groups](Day%2012/Step%201/solution.py) : 1546338         | [Garden Groups - Part Two](Day%2012/Step%202/solution.py) : 978590              |
